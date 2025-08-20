@@ -70,7 +70,3 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 ## Recomendação (opcional)
 
 Para uma melhor semântica nos commits, recomendamos repositório sobre [padrões de commits](https://github.com/iuricode/padroes-de-commits). Assim ficará mais fácil para avaliar seu pull request.
-
-## Voltar ao topo
-[Clique aqui para voltar ao topo do arquivo](https://github.com/i-davies/readme-template/#template-inicial-de-projetos)
-
