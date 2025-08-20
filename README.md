@@ -1,11 +1,12 @@
 # Expo Playground
 
-![github-mark-white](https://github.com/expo.png)
+
+<img src="https://github.com/expo.png" width="200"/>
 
 
 [React Native Docs](https://reactnative.dev/docs/getting-started) | [Expo Docs](https://docs.expo.dev/) | [Expo Examples](https://github.com/expo/examples) | [React Native Directory](https://reactnative.directory/)
 
-Uma pequena descrição sobre o projeto -  apenas um template inicial de como construir um README.md simples para qualquer projeto.
+Playground para testes -  com expo, react native, bibliotecas, etcs.
 
 ## Ajustes e melhorias
 
@@ -19,20 +20,39 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Instalar e configurar Eslint + Prettier + Husky
 - [ ] Traduzir o README.md
 
-## Instalação
+## Requisitos
+- Node.js
+- Expo CLI
+- Expo Go | Emulador Android | IOS
+
+## Como utilizar
 ```bash
 # Clone o repositório
 git clone https://github.com/i-davies/expo-playground.git
   
 ```
 
-## Configuração
+```bash
+# Instalar dependencias
+npm install
+  
+```
+
+## Executando
+
+```bash
+# Executar com expo cli
+npx expo start
+  
+```
+
+## Notas
 
 > [!NOTE]
-> Utilize a linguagem de marcação simples Markdown para editar o arquivo.
-> Em caso de dúvida pode verificar a documentação oficial [Clicando aqui](https://www.markdownguide.org/)
+> Você pode executar com algumas limitações no ambiente do próprio expo com o Expo Snacks.
+> Crie sua conta em (https://expo.dev)
 
-😀 É posível também adicionar emojis ao arquivo, [Clique aqui para ver todos disponíveis](https://www.webfx.com/tools/emoji-cheat-sheet/)
+😀 Ou visualize uma prévia em [Clicando aqui](https://snack.expo.dev/@idavies.dev/expo-playground)
 
 
 ##  Contribuindo para o projeto
