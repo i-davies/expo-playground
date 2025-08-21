@@ -14,7 +14,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Exemplo de Rota simmples com expo Link
 - [x] Exemplo de Botões
-- [x] Incluir padores de commits
+- [x] Incluir padrões de commits
 - [ ] Implementar screen de [haptics]( https://docs.expo.dev/versions/latest/sdk/haptics/)
 - [ ] Refatorar styles para [StyleSheet](https://reactnative.dev/docs/stylesheet)
 - [ ] Instalar e configurar Eslint + Prettier + Husky
