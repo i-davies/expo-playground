@@ -29,13 +29,11 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 ```bash
 # Clone o repositório
 git clone https://github.com/i-davies/expo-playground.git
-  
 ```
 
 ```bash
 # Instalar dependencias
 npm install
-  
 ```
 
 ## Executando
@@ -43,7 +41,6 @@ npm install
 ```bash
 # Executar com expo cli
 npx expo start
-  
 ```
 
 ## Notas
